@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codehunt-data", "codehunt-data\codehunt-data.csproj", "{DEF6084C-832A-4A43-8559-34CADDFA4C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codehunt-data-example", "codehunt-data-example\codehunt-data-example.csproj", "{88B2E696-5476-410D-B550-659DAD998E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B2E696-5476-410D-B550-659DAD998E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B2E696-5476-410D-B550-659DAD998E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B2E696-5476-410D-B550-659DAD998E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B2E696-5476-410D-B550-659DAD998E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF6084C-832A-4A43-8559-34CADDFA4C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF6084C-832A-4A43-8559-34CADDFA4C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF6084C-832A-4A43-8559-34CADDFA4C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF6084C-832A-4A43-8559-34CADDFA4C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = codehunt-data-example\codehunt-data-example.csproj
+	EndGlobalSection
+EndGlobal
